@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://62612f6abbe1d93cc2182394--friendly-queijadas-3e14d6.netlify.app`,
+    siteUrl: `https://friendly-queijadas-3e14d6.netlify.app`,
     // Your Name
     name: 'Daniel Herfurth',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `My Title`,
     // Description that goes under your name in main bio
     description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
     // Optional: Twitter account handle
